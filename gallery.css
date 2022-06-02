@@ -1,0 +1,47 @@
+body{
+    margin:0;
+    background-color: rgb(219, 218, 218);
+}
+
+.welcome{
+    text-align: center;
+    background-color: rgb(184, 180, 180);
+    padding-bottom:3em;
+    padding-top: 0;
+    font-family: Agency FB;
+    font-size: 20px;
+    font-weight: lighter;
+    width:100%;
+    border: 2px solid white;
+
+}
+.welcome img{
+    width:250px;
+    height: 250px;
+    border-radius: 10px;
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+   
+}
+.container img{
+    width:450px;
+    height:450px;
+    padding: 2em;
+    border-radius: 45px;
+}
+
+.conclusion{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    background-color: rgb(53, 51, 51);
+    margin:0;
+    color:white;
+    padding-bottom: 2em;
+    margin:0;
+    width:100%;
+    
+}
