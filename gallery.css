@@ -3,7 +3,7 @@ body{
     background-color: rgb(219, 218, 218);
 }
 
-.welcome{
+.header{
     text-align: center;
     background-color: rgb(184, 180, 180);
     padding-bottom:3em;
@@ -15,7 +15,7 @@ body{
     border: 2px solid white;
 
 }
-.welcome img{
+.header img{
     width:250px;
     height: 250px;
     border-radius: 10px;
@@ -27,13 +27,13 @@ body{
    
 }
 .container img{
-    width:450px;
-    height:450px;
+    width:200px;
+    height:200px;
     padding: 2em;
     border-radius: 45px;
 }
 
-.conclusion{
+.footer{
     text-align: center;
     font-size: 25px;
     font-weight: bold;
